@@ -15,3 +15,4 @@
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/f81a1e9c-9d62-4f9d-ab70-93ce74cee885)
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/c0892ada-721e-4929-bffd-fae8b881a6d2)
 
+链接: https://pan.baidu.com/s/192_xlbwg-CF9vQuBtUSUeQ?pwd=4v1d 提取码: 4v1d 
