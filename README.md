@@ -12,7 +12,7 @@
 ### pip install pyinstaller -i https://pypi.tuna.tsinghua.edu.cn/simple
 ### pyinstaller -F -w start.py
 ### pyinstaller -D -w start.py
-## 工具使用
+## 工具下载使用
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/41051cf1-270c-4e06-b5d4-96fc5abd76fc)
 链接: https://pan.baidu.com/s/192_xlbwg-CF9vQuBtUSUeQ?pwd=4v1d 提取码: 4v1d 
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/f81a1e9c-9d62-4f9d-ab70-93ce74cee885)
