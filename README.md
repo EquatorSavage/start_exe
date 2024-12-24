@@ -17,4 +17,6 @@
 链接: https://pan.baidu.com/s/192_xlbwg-CF9vQuBtUSUeQ?pwd=4v1d 提取码: 4v1d 
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/f81a1e9c-9d62-4f9d-ab70-93ce74cee885)
 ![image](https://github.com/EquatorSavage/start_exe/assets/38064179/c0892ada-721e-4929-bffd-fae8b881a6d2)
+![QQ截图20241224111554](https://github.com/user-attachments/assets/82458f29-8ab7-4acc-8637-7d6b8f42c135)
+![QQ截图20241224111522](https://github.com/user-attachments/assets/e23722c6-c5c0-4cae-9e65-6064da4837a8)
 
